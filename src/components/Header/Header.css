@@ -4,7 +4,6 @@
 }
 
 .h-wrapper {
-  background-color: var(--black);
   color: white;
 }
 
@@ -21,5 +20,4 @@
 
 .h-menu > *:hover {
   cursor: pointer;
-  transform: scale(1.1);
 }
